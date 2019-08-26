@@ -2,7 +2,7 @@
   "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yashnaik47.github.io/test1/",
+  "homepage": "https://yashnaik47.github.io/apidemo2/",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.0.1",
