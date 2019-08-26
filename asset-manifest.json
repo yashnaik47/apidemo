@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/apidemo/static/js/main.3df2db33.chunk.js",
-    "main.js.map": "/apidemo/static/js/main.3df2db33.chunk.js.map",
-    "runtime~main.js": "/apidemo/static/js/runtime~main.8ceef7fc.js",
-    "runtime~main.js.map": "/apidemo/static/js/runtime~main.8ceef7fc.js.map",
-    "static/js/2.1b093268.chunk.js": "/apidemo/static/js/2.1b093268.chunk.js",
-    "static/js/2.1b093268.chunk.js.map": "/apidemo/static/js/2.1b093268.chunk.js.map",
-    "index.html": "/apidemo/index.html",
-    "precache-manifest.86e65a928f89e23951320fad3430bd07.js": "/apidemo/precache-manifest.86e65a928f89e23951320fad3430bd07.js",
-    "service-worker.js": "/apidemo/service-worker.js"
+    "main.js": "/apidemo2/static/js/main.07a171bf.chunk.js",
+    "main.js.map": "/apidemo2/static/js/main.07a171bf.chunk.js.map",
+    "runtime~main.js": "/apidemo2/static/js/runtime~main.6be42268.js",
+    "runtime~main.js.map": "/apidemo2/static/js/runtime~main.6be42268.js.map",
+    "static/js/2.c2695c00.chunk.js": "/apidemo2/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/apidemo2/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/apidemo2/index.html",
+    "precache-manifest.29638ef5cdc28f7afda23058a94e3b1e.js": "/apidemo2/precache-manifest.29638ef5cdc28f7afda23058a94e3b1e.js",
+    "service-worker.js": "/apidemo2/service-worker.js"
   }
 }
